@@ -2,13 +2,12 @@
 <h3 align="center">A passionate FrontEnd Web developer from Chennai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravana68&label=Profile%20views&color=0e75b6&style=flat" alt="saravana68" /> </p>
+<h3>
+ <li> 2nd year BCA Student from Dr.M.G.R Educational and Research Insitute </li>
+ <li> I’m currently learning React and Nodejs and parallely improving my problem solving skills! </li>
+ <li> Reach me : **sarvananlakshmanan@gmail.com** </li>
 
-- 🌱 I’m currently learning **react and nodejs**
-
-- 📫 How to reach me **sarvananlakshmanan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me: &nbsp;
 <a href="https://linkedin.com/in/www.linkedin.com/in/saravana68" target="blank"><img color="white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/saravana68" height="30" width="40" /></a>
 <a href="https://fb.com/saravana kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saravana kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/saravana68_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saravana68_" height="30" width="40" /></a>
