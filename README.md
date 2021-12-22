@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravana68&label=Profile%20views&color=0e75b6&style=flat" alt="saravana68" /> </p>
 <h3>
- <li> 2nd year BCA Student from Dr.M.G.R Educational and Research Insitute </li>
+ <li> Final Year Student from Dr.M.G.R Educational and Research Insitute </li>
  <li> I’m currently learning React and Nodejs and parallely improving my problem solving skills! </li>
- <li> Reach me : **sarvananlakshmanan@gmail.com** </li>
+ <li> Reach me : **saravana6800@gmail.com** </li>
 
 <h3 align="left">Connect with me: &nbsp;
 <a href="https://linkedin.com/in/www.linkedin.com/in/saravana68" target="blank"><img color="white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/saravana68" height="30" width="40" /></a>
