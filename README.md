@@ -54,7 +54,8 @@
 
 ### ⚙️ &nbsp;Major Projects
 - 💡 &nbsp; I am kind of person who always beleives that showcasing our skills publicly is equally important to learning new skills.
-- ✍️ &nbsp; I have done some Major projects as well as pet projects in web development. among them I've listed some of them for your attention.
+- ✍️ &nbsp; I have done some Major projects as well as pet projects in web development
+- 💡 &nbsp; Among them I have listed some of them for your attention.
 
 ![SARAVANA KUMAR (2)](https://user-images.githubusercontent.com/63772127/192761462-01795863-9661-4da2-a5be-5cb95fbfed93.jpg)
 ![SARAVANA KUMAR (3)](https://user-images.githubusercontent.com/63772127/192761468-ed39914e-0cfb-49aa-89fd-15ea2d7b0226.jpg)
