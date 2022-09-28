@@ -1,27 +1,61 @@
-<h1 align="center">Hi 👋, I'm Saravana Kumar</h1>
-<h3 align="center">A passionate FrontEnd Web developer from Chennai</h3>
+![SARAVANA KUMAR](https://user-images.githubusercontent.com/63772127/192730404-f3a9dadb-7fd8-45fd-a7e7-a22b28c2fb32.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saravana68&label=Profile%20views&color=0e75b6&style=flat" alt="saravana68" /> </p>
-<h3>
- <li> Final Year Student from Dr.M.G.R Educational and Research Insitute </li>
- <li> I’m currently learning React and Nodejs and parallely improving my problem solving skills! </li>
- <li> Reach me : **saravana6800@gmail.com** </li>
 
-<h3 align="left">Connect with me: &nbsp;
-<a href="https://linkedin.com/in/www.linkedin.com/in/saravana68" target="blank"><img color="white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/saravana68" height="30" width="40" /></a>
-<a href="https://fb.com/saravana kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saravana kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/saravana68_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saravana68_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/saravana68" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saravana68" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/saravana68" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="saravana68" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saravana68" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="saravana68" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/saravana68" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="saravana68" height="30" width="40" /></a>
+<h1 align="center">👋 Hey there! I'm Saravana Kumar 🧒</h1> 
+
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+
+### 👨🏻‍💻 &nbsp;About Me
+
+- 💡 &nbsp;I would like to explore new technologies and develop software solutions and quick hacks.
+- 🎓 &nbsp;I've completed my Bachelors in computer applications from DR.M.G.R Educational and Research Institute | chennai | Tamilnadu.
+- 🌱 &nbsp;I'm on track for learning more about Web App development, Systems Design, and API design.
+- ✍️ &nbsp;In my free time, I do competitive programming and playing chess as hobbies.
+- 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.
+- ✉️ &nbsp;You can shoot me an email at saravana6800@gmail.com! I'll try to respond as soon as I can.
+- 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1AOCUWO9ew_6aVDkc1AhnL2U5SnGXOhS4/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+<h1> 
+</h1>
+<img alt="Night Coding" height=200 width=250 src="https://user-images.githubusercontent.com/63772127/192738157-a97a65a1-8c2f-4a04-8956-628cc08eeab0.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+<h1> </h1>
+
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/saravana68">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saravana68&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saravana68&layout=compact&langs_count=8&theme=algolia"/>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saravana68&theme=algolia"/>
+</a>
+</p>
+<h1> </h1>
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/saravana68"><img src="https://img.shields.io/badge/-saravana%20kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:saravana6800@gmail.com"><img src="https://img.shields.io/badge/-saravana6800@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_.saravana68._/"><img src="https://img.shields.io/badge/-@saravana68-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/saravanakumar.sarvan2/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="center" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saravana68&show_icons=true&locale=en&layout=compact" alt="saravana68" /></p>
-
-<p>&nbsp;<img align="center" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=saravana68&show_icons=true&locale=en" alt="saravana68" /></p>
-
-<p><img align="center"  width="50%" height="50%"src="https://github-readme-streak-stats.herokuapp.com/?user=saravana68&" alt="saravana68" /></p>
+-----
