@@ -42,6 +42,7 @@
 <h1> </h1>
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/saravana68">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saravana68&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -50,6 +51,16 @@
 </a>
 </p>
 <h1> </h1>
+
+### ⚙️ &nbsp;Major Projects
+- 💡 &nbsp; I am kind of person who always beleives that showcasing our skills publicly is equally important to learning new skills.
+- ✍️ &nbsp; I have done some Major projects as well as pet projects in web development. among them I've listed some of them for your attention.
+
+![SARAVANA KUMAR (2)](https://user-images.githubusercontent.com/63772127/192761462-01795863-9661-4da2-a5be-5cb95fbfed93.jpg)
+![SARAVANA KUMAR (3)](https://user-images.githubusercontent.com/63772127/192761468-ed39914e-0cfb-49aa-89fd-15ea2d7b0226.jpg)
+![SARAVANA KUMAR (4)](https://user-images.githubusercontent.com/63772127/192761478-f11db81c-dea1-47e5-84b4-b50d0c13d1d0.jpg)
+![SARAVANA KUMAR (5)](https://user-images.githubusercontent.com/63772127/192761489-bb35584c-91f5-4ef3-8b51-5759bdb4622b.jpg)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
