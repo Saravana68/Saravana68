@@ -16,7 +16,8 @@
 - 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1AOCUWO9ew_6aVDkc1AhnL2U5SnGXOhS4/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 <h1> 
 </h1>
-<img alt="Night Coding" height=200 width=250 src="https://user-images.githubusercontent.com/63772127/192738157-a97a65a1-8c2f-4a04-8956-628cc08eeab0.gif" align="right"/>
+
+![SARAVANA KUMAR (1)](https://user-images.githubusercontent.com/63772127/192752833-68e71f0b-7149-45ed-bf21-2a0adc4c65e2.jpg)
 
 ### 🛠 &nbsp;Tech Stack
 
