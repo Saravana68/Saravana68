@@ -1,7 +1,7 @@
 ![SARAVANA KUMAR](https://user-images.githubusercontent.com/63772127/192730404-f3a9dadb-7fd8-45fd-a7e7-a22b28c2fb32.jpg)
 
 
-<h1 align="center">👋 Hey there! I'm Saravana Kumar 🧒</h1> 
+<h2 align="center">👋 Hey there! I'm Saravana Kumar 🧒</h2> 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
@@ -56,7 +56,7 @@
 <a href="https://linkedin.com/in/saravana68"><img src="https://img.shields.io/badge/-saravana%20kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:saravana6800@gmail.com"><img src="https://img.shields.io/badge/-saravana6800@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_.saravana68._/"><img src="https://img.shields.io/badge/-@saravana68-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/saravanakumar.sarvan2/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/saravanakumar.sarvan2/"><img src="https://img.shields.io/badge/-@saravana68-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
