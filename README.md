@@ -62,6 +62,18 @@
 ![SARAVANA KUMAR (4)](https://user-images.githubusercontent.com/63772127/192761478-f11db81c-dea1-47e5-84b4-b50d0c13d1d0.jpg)
 ![SARAVANA KUMAR (5)](https://user-images.githubusercontent.com/63772127/192761489-bb35584c-91f5-4ef3-8b51-5759bdb4622b.jpg)
 
+<hr>
+
+### ⚙️ &nbsp; Coding Handles
+
+- 💡 &nbsp; I am also actively take part in Coding competitions across various sites such as codechef , GeeksforGeeks , Leetcode.
+- ✍️ &nbsp; I use Leetcode & Geeksforgeeks frequently to polish my problem solving skills in C++.
+- 💡 &nbsp; My Various coding handles & My progress in that websites are posted as image below.
+
+   - 📄 &nbsp;[Leetcode](https://leetcode.com/Saravana68/) 
+   - 📄 &nbsp;[GeeksforGeeks](https://auth.geeksforgeeks.org/user/saravana6800) 
+
+![aravana's coding handles (1)](https://user-images.githubusercontent.com/63772127/192926348-077c85ea-b3d5-429f-bbff-9b37192eaa8d.png)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
