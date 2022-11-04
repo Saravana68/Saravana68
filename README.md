@@ -13,7 +13,7 @@
 - ✍️ &nbsp;In my free time, I do competitive programming and playing chess as hobbies.
 - 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.
 - ✉️ &nbsp;You can shoot me an email at saravana6800@gmail.com! I'll try to respond as soon as I can.
-- 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1AOCUWO9ew_6aVDkc1AhnL2U5SnGXOhS4/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1O2HfYwH1MgIQ_QBbe1gJqcQyRoQ1CgLf/view?usp=share_link) for more details about me. I'm open to feedback and suggestions!
 <h1> 
 </h1>
 
